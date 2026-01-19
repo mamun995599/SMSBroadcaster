@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Broadcaster</string>
+    <string name="server_status">Server Status</string>
+    <string name="websocket_settings">WebSocket Server Settings</string>
+    <string name="http_settings">HTTP GET/POST Settings</string>
+    <string name="port_hint">Port (default: 8090)</string>
+    <string name="ip_address_hint">Target IP Address</string>
+    <string name="target_port_hint">Target Port</string>
+    <string name="connected_clients">Connected Clients</string>
+    <string name="http_console">HTTP Console Log</string>
+    <string name="server_off">Server is OFF</string>
+    <string name="server_on">Server is ON</string>
+    <string name="get_method">GET</string>
+    <string name="post_method">POST</string>
+    <string name="no_clients">No connected clients</string>
+    <string name="notification_channel_name">SMS Broadcaster Service</string>
+    <string name="notification_channel_desc">Running SMS Broadcaster in background</string>
+</resources>
